@@ -1,7 +1,6 @@
 flask
-pickle
+pickle-mixin
 numpy
 pandas
-sklearn
-sklearn.externals
-re
+scikit-learn
+regex
