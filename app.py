@@ -11,7 +11,7 @@ app = flask.Flask(__name__)
 # If they go to the page "/" (this means a GET request
 # to the page http://127.0.0.1:5000/), return a simple
 # page that says the site is up!
-
+#this is ML application
 
 @app.route("/", methods=["POST"])
 def print_piped():
